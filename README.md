@@ -1,3 +1,9 @@
+# test app
+
+https://github-finder-three-eta.vercel.app/
+
+# falta poner las variables env para probar localmente
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
